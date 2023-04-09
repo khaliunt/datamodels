@@ -1,6 +1,6 @@
 # datamodels
-1. * XML data: XMLdata.md
-2. * Windows Registry: windowsregistry.md
+* XML data: XMLdata.md
+* Windows Registry: windowsregistry.md
 * RDM Mobile: RDMmobile.md
 * R: R.md
 * Oracle Database: OracleDatabase.md
