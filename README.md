@@ -1,2 +1,0 @@
-# datamodels
-Homework 0
